@@ -103,6 +103,7 @@ Publish the website in the given URL.
 </html>  
 ```
 ## OUTPUT:
-![Alt text](image.png)
+![image](https://github.com/22003197/Calc/assets/124332243/f224b1c4-e23a-4ce1-9804-885fdde262d6)
+
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
